@@ -3,7 +3,7 @@
     "Foundation": {
       "Black Transparent": {
         "16": {
-          "value": "#00000029",
+          "value": "rgba(242,242,242,1)",
           "type": "color"
         },
         "40": {
@@ -20,5 +20,11 @@
         }
       }
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
   }
 }
