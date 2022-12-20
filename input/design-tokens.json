@@ -1,1 +1,24 @@
-{}
+{
+  "global": {
+    "Foundation": {
+      "Black Transparent": {
+        "16": {
+          "value": "#00000029",
+          "type": "color"
+        },
+        "40": {
+          "value": "#00000066",
+          "type": "color"
+        },
+        "60": {
+          "value": "#2b282699",
+          "type": "color"
+        },
+        "07": {
+          "value": "#00000012",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
