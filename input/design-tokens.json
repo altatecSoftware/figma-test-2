@@ -3,7 +3,7 @@
     "Foundation": {
       "Black Transparent": {
         "16": {
-          "value": "rgba(242,242,242,1)",
+          "value": "#000",
           "type": "color"
         },
         "40": {
