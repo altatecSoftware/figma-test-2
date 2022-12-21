@@ -1,5 +1,14 @@
+
 {
+  "name": "style-dictionary",
+  "version": "0.0.0",
+  "private": true,
   "dependencies": {
     "style-dictionary": "^3.7.1"
+  },
+  "scripts": {
+  "build": "style-dictionary build"
   }
 }
+  
+
