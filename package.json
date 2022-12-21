@@ -1,14 +1,16 @@
-
 {
-  "name": "style-dictionary",
-  "version": "0.0.0",
-  "private": true,
-  "dependencies": {
-    "style-dictionary": "^3.7.1"
-  },
+  "name": "style-dictionary-example-complete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
   "scripts": {
-  "build": "style-dictionary build"
+    "build": "node_modules/.bin/style-dictionary build",
+    "clean": "rm -rf build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "style-dictionary": "latest"
   }
 }
-  
-
