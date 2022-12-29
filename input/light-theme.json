@@ -1,0 +1,21 @@
+{
+  "light": {
+    "yy": {
+      "value": "#865c5c",
+      "type": "color"
+    }
+  },
+  "dark": {
+    "ghgj": {
+      "value": "#b95f5f",
+      "type": "color"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "light",
+      "dark"
+    ]
+  }
+}
