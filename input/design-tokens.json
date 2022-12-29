@@ -623,10 +623,24 @@
       }
     }
   },
+  "Dark": {
+    "im_dark": {
+      "value": "#000",
+      "type": "color"
+    }
+  },
+  "Light": {
+    "im_white": {
+      "value": "#fff",
+      "type": "color"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "color"
+      "color",
+      "Dark",
+      "Light"
     ]
   }
 }
